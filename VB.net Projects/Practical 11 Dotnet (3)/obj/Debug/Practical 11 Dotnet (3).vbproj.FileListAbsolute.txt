@@ -1,0 +1,11 @@
+D:\VB.net Projects\Practical 11 Dotnet (3)\bin\Debug\Practical 11 Dotnet (3).exe.config
+D:\VB.net Projects\Practical 11 Dotnet (3)\bin\Debug\Practical 11 Dotnet (3).exe
+D:\VB.net Projects\Practical 11 Dotnet (3)\bin\Debug\Practical 11 Dotnet (3).pdb
+D:\VB.net Projects\Practical 11 Dotnet (3)\bin\Debug\Practical 11 Dotnet (3).xml
+D:\VB.net Projects\Practical 11 Dotnet (3)\obj\Debug\Practical_11_Dotnet__3_.Resources.resources
+D:\VB.net Projects\Practical 11 Dotnet (3)\obj\Debug\Practical 11 Dotnet (3).vbproj.GenerateResource.cache
+D:\VB.net Projects\Practical 11 Dotnet (3)\obj\Debug\Practical 11 Dotnet (3).vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\Practical 11 Dotnet (3)\obj\Debug\Practical 11 Dotnet (3).exe
+D:\VB.net Projects\Practical 11 Dotnet (3)\obj\Debug\Practical 11 Dotnet (3).xml
+D:\VB.net Projects\Practical 11 Dotnet (3)\obj\Debug\Practical 11 Dotnet (3).pdb
+D:\VB.net Projects\Practical 11 Dotnet (3)\obj\Debug\Practical 11 Dotnet (3).vbprojAssemblyReference.cache

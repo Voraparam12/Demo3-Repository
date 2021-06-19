@@ -1,0 +1,12 @@
+D:\VB.net Projects\Menus , Submenus\bin\Debug\Menus , Submenus.exe.config
+D:\VB.net Projects\Menus , Submenus\bin\Debug\Menus , Submenus.exe
+D:\VB.net Projects\Menus , Submenus\bin\Debug\Menus , Submenus.pdb
+D:\VB.net Projects\Menus , Submenus\bin\Debug\Menus , Submenus.xml
+D:\VB.net Projects\Menus , Submenus\obj\Debug\Menus , Submenus.vbprojAssemblyReference.cache
+D:\VB.net Projects\Menus , Submenus\obj\Debug\Menus___Submenus.Form1.resources
+D:\VB.net Projects\Menus , Submenus\obj\Debug\Menus___Submenus.Resources.resources
+D:\VB.net Projects\Menus , Submenus\obj\Debug\Menus , Submenus.vbproj.GenerateResource.cache
+D:\VB.net Projects\Menus , Submenus\obj\Debug\Menus , Submenus.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\Menus , Submenus\obj\Debug\Menus , Submenus.exe
+D:\VB.net Projects\Menus , Submenus\obj\Debug\Menus , Submenus.xml
+D:\VB.net Projects\Menus , Submenus\obj\Debug\Menus , Submenus.pdb

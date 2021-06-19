@@ -1,0 +1,11 @@
+D:\VB.net Projects\RedimArray\bin\Debug\RedimArray.exe.config
+D:\VB.net Projects\RedimArray\bin\Debug\RedimArray.exe
+D:\VB.net Projects\RedimArray\bin\Debug\RedimArray.pdb
+D:\VB.net Projects\RedimArray\bin\Debug\RedimArray.xml
+D:\VB.net Projects\RedimArray\obj\Debug\RedimArray.vbprojAssemblyReference.cache
+D:\VB.net Projects\RedimArray\obj\Debug\RedimArray.Resources.resources
+D:\VB.net Projects\RedimArray\obj\Debug\RedimArray.vbproj.GenerateResource.cache
+D:\VB.net Projects\RedimArray\obj\Debug\RedimArray.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\RedimArray\obj\Debug\RedimArray.exe
+D:\VB.net Projects\RedimArray\obj\Debug\RedimArray.xml
+D:\VB.net Projects\RedimArray\obj\Debug\RedimArray.pdb

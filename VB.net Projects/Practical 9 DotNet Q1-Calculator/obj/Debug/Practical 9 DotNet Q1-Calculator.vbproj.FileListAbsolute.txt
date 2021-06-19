@@ -1,0 +1,12 @@
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\bin\Debug\Practical 9 DotNet Q1-Calculator.exe.config
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\bin\Debug\Practical 9 DotNet Q1-Calculator.exe
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\bin\Debug\Practical 9 DotNet Q1-Calculator.pdb
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\bin\Debug\Practical 9 DotNet Q1-Calculator.xml
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\obj\Debug\Practical 9 DotNet Q1-Calculator.vbprojAssemblyReference.cache
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\obj\Debug\Practical_9_DotNet_Q1_Calculator.Form1.resources
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\obj\Debug\Practical_9_DotNet_Q1_Calculator.Resources.resources
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\obj\Debug\Practical 9 DotNet Q1-Calculator.vbproj.GenerateResource.cache
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\obj\Debug\Practical 9 DotNet Q1-Calculator.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\obj\Debug\Practical 9 DotNet Q1-Calculator.exe
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\obj\Debug\Practical 9 DotNet Q1-Calculator.xml
+D:\VB.net Projects\Practical 9 DotNet Q1-Calculator\obj\Debug\Practical 9 DotNet Q1-Calculator.pdb

@@ -1,0 +1,11 @@
+D:\VB.net Projects\Pattern\obj\Debug\Pattern.vbprojAssemblyReference.cache
+D:\VB.net Projects\Pattern\obj\Debug\Pattern.Resources.resources
+D:\VB.net Projects\Pattern\obj\Debug\Pattern.vbproj.GenerateResource.cache
+D:\VB.net Projects\Pattern\obj\Debug\Pattern.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\Pattern\bin\Debug\Pattern.exe.config
+D:\VB.net Projects\Pattern\bin\Debug\Pattern.exe
+D:\VB.net Projects\Pattern\bin\Debug\Pattern.pdb
+D:\VB.net Projects\Pattern\bin\Debug\Pattern.xml
+D:\VB.net Projects\Pattern\obj\Debug\Pattern.exe
+D:\VB.net Projects\Pattern\obj\Debug\Pattern.xml
+D:\VB.net Projects\Pattern\obj\Debug\Pattern.pdb

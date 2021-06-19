@@ -1,0 +1,12 @@
+D:\VB.net Projects\Menus And Submenus\bin\Debug\Menus And Submenus.exe.config
+D:\VB.net Projects\Menus And Submenus\bin\Debug\Menus And Submenus.exe
+D:\VB.net Projects\Menus And Submenus\bin\Debug\Menus And Submenus.pdb
+D:\VB.net Projects\Menus And Submenus\bin\Debug\Menus And Submenus.xml
+D:\VB.net Projects\Menus And Submenus\obj\Debug\Menus And Submenus.vbprojAssemblyReference.cache
+D:\VB.net Projects\Menus And Submenus\obj\Debug\Menus_And_Submenus.Form1.resources
+D:\VB.net Projects\Menus And Submenus\obj\Debug\Menus_And_Submenus.Resources.resources
+D:\VB.net Projects\Menus And Submenus\obj\Debug\Menus And Submenus.vbproj.GenerateResource.cache
+D:\VB.net Projects\Menus And Submenus\obj\Debug\Menus And Submenus.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\Menus And Submenus\obj\Debug\Menus And Submenus.exe
+D:\VB.net Projects\Menus And Submenus\obj\Debug\Menus And Submenus.xml
+D:\VB.net Projects\Menus And Submenus\obj\Debug\Menus And Submenus.pdb

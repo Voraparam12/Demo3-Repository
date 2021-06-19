@@ -1,0 +1,12 @@
+D:\VB.net Projects\Practical 10 DotNet\bin\Debug\Practical 10 DotNet.exe.config
+D:\VB.net Projects\Practical 10 DotNet\bin\Debug\Practical 10 DotNet.exe
+D:\VB.net Projects\Practical 10 DotNet\bin\Debug\Practical 10 DotNet.pdb
+D:\VB.net Projects\Practical 10 DotNet\bin\Debug\Practical 10 DotNet.xml
+D:\VB.net Projects\Practical 10 DotNet\obj\Debug\Practical 10 DotNet.vbprojAssemblyReference.cache
+D:\VB.net Projects\Practical 10 DotNet\obj\Debug\Practical_10_DotNet.Form1.resources
+D:\VB.net Projects\Practical 10 DotNet\obj\Debug\Practical_10_DotNet.Resources.resources
+D:\VB.net Projects\Practical 10 DotNet\obj\Debug\Practical 10 DotNet.vbproj.GenerateResource.cache
+D:\VB.net Projects\Practical 10 DotNet\obj\Debug\Practical 10 DotNet.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\Practical 10 DotNet\obj\Debug\Practical 10 DotNet.exe
+D:\VB.net Projects\Practical 10 DotNet\obj\Debug\Practical 10 DotNet.xml
+D:\VB.net Projects\Practical 10 DotNet\obj\Debug\Practical 10 DotNet.pdb

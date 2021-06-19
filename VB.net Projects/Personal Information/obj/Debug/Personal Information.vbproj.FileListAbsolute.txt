@@ -1,0 +1,12 @@
+D:\VB.net Projects\Personal Information\bin\Debug\Personal Information.exe.config
+D:\VB.net Projects\Personal Information\bin\Debug\Personal Information.exe
+D:\VB.net Projects\Personal Information\bin\Debug\Personal Information.pdb
+D:\VB.net Projects\Personal Information\bin\Debug\Personal Information.xml
+D:\VB.net Projects\Personal Information\obj\Debug\Personal Information.vbprojAssemblyReference.cache
+D:\VB.net Projects\Personal Information\obj\Debug\Personal_Information.Form1.resources
+D:\VB.net Projects\Personal Information\obj\Debug\Personal_Information.Resources.resources
+D:\VB.net Projects\Personal Information\obj\Debug\Personal Information.vbproj.GenerateResource.cache
+D:\VB.net Projects\Personal Information\obj\Debug\Personal Information.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\Personal Information\obj\Debug\Personal Information.exe
+D:\VB.net Projects\Personal Information\obj\Debug\Personal Information.xml
+D:\VB.net Projects\Personal Information\obj\Debug\Personal Information.pdb

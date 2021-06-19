@@ -1,0 +1,13 @@
+D:\VB.net Projects\DotNet Practical 8\bin\Debug\DotNet Practical 8.exe.config
+D:\VB.net Projects\DotNet Practical 8\bin\Debug\DotNet Practical 8.exe
+D:\VB.net Projects\DotNet Practical 8\bin\Debug\DotNet Practical 8.pdb
+D:\VB.net Projects\DotNet Practical 8\bin\Debug\DotNet Practical 8.xml
+D:\VB.net Projects\DotNet Practical 8\obj\Debug\DotNet Practical 8.vbprojAssemblyReference.cache
+D:\VB.net Projects\DotNet Practical 8\obj\Debug\DotNet_Practical_8.Form1.resources
+D:\VB.net Projects\DotNet Practical 8\obj\Debug\DotNet_Practical_8.Form2.resources
+D:\VB.net Projects\DotNet Practical 8\obj\Debug\DotNet_Practical_8.Resources.resources
+D:\VB.net Projects\DotNet Practical 8\obj\Debug\DotNet Practical 8.vbproj.GenerateResource.cache
+D:\VB.net Projects\DotNet Practical 8\obj\Debug\DotNet Practical 8.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\DotNet Practical 8\obj\Debug\DotNet Practical 8.exe
+D:\VB.net Projects\DotNet Practical 8\obj\Debug\DotNet Practical 8.xml
+D:\VB.net Projects\DotNet Practical 8\obj\Debug\DotNet Practical 8.pdb

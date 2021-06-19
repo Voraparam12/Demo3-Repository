@@ -1,0 +1,11 @@
+D:\VB.net Projects\Myfirst\obj\Debug\Myfirst.vbprojAssemblyReference.cache
+D:\VB.net Projects\Myfirst\obj\Debug\Myfirst.Resources.resources
+D:\VB.net Projects\Myfirst\obj\Debug\Myfirst.vbproj.GenerateResource.cache
+D:\VB.net Projects\Myfirst\obj\Debug\Myfirst.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\Myfirst\bin\Debug\Myfirst.exe.config
+D:\VB.net Projects\Myfirst\bin\Debug\Myfirst.exe
+D:\VB.net Projects\Myfirst\bin\Debug\Myfirst.pdb
+D:\VB.net Projects\Myfirst\bin\Debug\Myfirst.xml
+D:\VB.net Projects\Myfirst\obj\Debug\Myfirst.exe
+D:\VB.net Projects\Myfirst\obj\Debug\Myfirst.xml
+D:\VB.net Projects\Myfirst\obj\Debug\Myfirst.pdb

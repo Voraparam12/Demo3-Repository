@@ -1,0 +1,11 @@
+D:\VB.net Projects\MaxNumberArray\obj\Debug\MaxNumberArray.vbprojAssemblyReference.cache
+D:\VB.net Projects\MaxNumberArray\obj\Debug\MaxNumberArray.Resources.resources
+D:\VB.net Projects\MaxNumberArray\obj\Debug\MaxNumberArray.vbproj.GenerateResource.cache
+D:\VB.net Projects\MaxNumberArray\obj\Debug\MaxNumberArray.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\MaxNumberArray\bin\Debug\MaxNumberArray.exe.config
+D:\VB.net Projects\MaxNumberArray\bin\Debug\MaxNumberArray.exe
+D:\VB.net Projects\MaxNumberArray\bin\Debug\MaxNumberArray.pdb
+D:\VB.net Projects\MaxNumberArray\bin\Debug\MaxNumberArray.xml
+D:\VB.net Projects\MaxNumberArray\obj\Debug\MaxNumberArray.exe
+D:\VB.net Projects\MaxNumberArray\obj\Debug\MaxNumberArray.xml
+D:\VB.net Projects\MaxNumberArray\obj\Debug\MaxNumberArray.pdb

@@ -1,0 +1,12 @@
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\bin\Debug\Practical 9 Dotnet Q2- Interest Calculator.exe.config
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\bin\Debug\Practical 9 Dotnet Q2- Interest Calculator.exe
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\bin\Debug\Practical 9 Dotnet Q2- Interest Calculator.pdb
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\bin\Debug\Practical 9 Dotnet Q2- Interest Calculator.xml
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\obj\Debug\Practical 9 Dotnet Q2- Interest Calculator.vbprojAssemblyReference.cache
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\obj\Debug\Practical_9_Dotnet_Q2__Interest_Calculator.Form1.resources
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\obj\Debug\Practical_9_Dotnet_Q2__Interest_Calculator.Resources.resources
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\obj\Debug\Practical 9 Dotnet Q2- Interest Calculator.vbproj.GenerateResource.cache
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\obj\Debug\Practical 9 Dotnet Q2- Interest Calculator.vbproj.CoreCompileInputs.cache
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\obj\Debug\Practical 9 Dotnet Q2- Interest Calculator.exe
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\obj\Debug\Practical 9 Dotnet Q2- Interest Calculator.xml
+D:\VB.net Projects\Practical 9 Dotnet Q2- Interest Calculator\obj\Debug\Practical 9 Dotnet Q2- Interest Calculator.pdb
